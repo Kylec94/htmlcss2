@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(188, 186, 186);
+}
+
+#rec-1 {
+    background-color: rgb(57, 54, 54);
+    color:rgb(57, 54, 54);
+    height: 15vh;
+    
+}
+
+footer {    
+    background-color: rgb(18, 12, 12);
+    position: fixed;
+    bottom: 0px;
+    width: 100vw;
+    height:15vh;
+    
+    
+}
+   
+#flexbox {
+    background-color:rgb(147, 144, 144);
+    display:flex;
+    justify-content:center;
+    
+}
+
+ #flexbox > #square {
+     background-color:white;
+     height:80vh;
+     width:80vw;
+     
+ }
+
+
+
+
+
+
+
+
+/* #rec-2 {
+    background-color: pink;
+    height:100vh;
+    width:20vw;
+    display:flex;
+    justify-content:flex-end;
+}  */
+
+
+

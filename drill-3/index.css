@@ -1,0 +1,56 @@
+#top {
+    display:flex;
+    align-items:flex-end;
+    box-sizing:border-box;
+    padding:15px 15px;
+    background-color:rgb(164, 164, 164);
+    height: 10vh;
+    width:100%;
+}
+
+#top .square {
+    background-color:rgb(65, 65, 241);
+    height:50px;
+    width:50px; 
+}
+
+#text {
+    border: solid black 1px;
+    
+}
+
+.blue {
+    background-color:rgb(93, 93, 147);
+    height: 30vh
+}
+
+.teal {
+    background-color:rgb(79, 236, 168);
+    height:30vh
+}
+
+.green {
+    background-color:rgb(161, 206, 161);
+    height: 30vh;
+}
+
+.yellow {
+    background-color: yellow;
+    height: 30vh;
+}
+
+.question {
+   
+    position:fixed;
+    right:5px;
+    bottom:5px; 
+}
+
+.question button {
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+    font-size: 50px;
+}
